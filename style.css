@@ -135,6 +135,9 @@ background-color: #fff;
     height: 100%;
     background: #03a9f4;
 }
+.contactInfo-lag .text{
+    color: white;
+}
 
 .container .right-side {
     position: relative;
