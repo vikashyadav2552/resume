@@ -99,6 +99,10 @@ background-color: #fff;
     color: #fff;
     font-weight: 300;
 }
+/* new add 23 nov */
+.contactInfo ul li span a{
+color: #03a9f4;
+}
 .title .text, a{
     
     font-style: none;
